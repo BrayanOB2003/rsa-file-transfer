@@ -68,7 +68,7 @@ public class Client {
             System.out.println("Archivo enviado correctamente.");
 
             socket.close();
-            System.out.println("Conexión cerrada.");
+            System.out.println("Conexion cerrada.");
         } catch (Exception e) {
             e.printStackTrace();
         }

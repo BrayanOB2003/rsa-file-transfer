@@ -58,7 +58,7 @@ public class Server {
             if (MessageDigest.isEqual(clientHash, serverHash)) {
                 System.out.println("Archivo transferido correctamente.");
             } else {
-                System.out.println("Error: El archivo transferido está corrupto.");
+                System.out.println("Error: El archivo transferido esta corrupto.");
             }
 
             socket.close();
