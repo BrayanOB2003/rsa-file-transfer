@@ -10,7 +10,7 @@ public class Client {
 
     public static void main(String[] args) {
         if (args.length < 1) {
-            System.out.println("Debe proporcionar un nombre de archivo como parámetro.");
+            System.out.println("Debe proporcionar un nombre de archivo como parametro.");
             return;
         }
 
