@@ -11,11 +11,11 @@ This project consists of two programs, a client and a server, that enable secure
 
 1. Clone or download the project repository to your local machine.
 
-- ```git clone https://github.com/your-username/secure-file-transfer.git```
+- ```git clone https://github.com/your-username/rsa-file-transfer.git```
 
 2. Open a terminal and navigate to the project directory.
 
-- ```cd secure-file-transfer```
+- ```cd src/java```
 
 3. Compile the Java files.
 
