@@ -1,4 +1,4 @@
-# Secure File Transfer with Symmetric Key
+# Secure File Transfer with RSA
 
 This project consists of two programs, a client and a server, that enable secure file transfer using rsa system with AES algorithm with a 256-bit key for file encryption. Additionally, the SHA-256 hash of the transferred file is calculated, and its integrity is verified.
 
